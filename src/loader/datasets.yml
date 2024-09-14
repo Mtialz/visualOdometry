@@ -1,0 +1,25 @@
+kitti:
+  path: D:/education-MS/3d vision/code/3D-Vision/VO pipline/Visual-Odom-Pipeline/kitti
+  init: 
+  - 0
+  - 10
+parking:
+  path: /media/scratch1/jonfrey/datasets_visual_odom/parking
+  init: 
+  - 0
+  - 10
+malaga:
+  path: /media/scratch1/jonfrey/datasets_visual_odom/malaga-urban-dataset-extract-07
+  init: 
+  - 0
+  - 10
+roomtour:
+  path: /media/scratch1/jonfrey/datasets_visual_odom/roomtour
+  init: 
+  - 0
+  - 20
+outdoor_street:
+  path: /media/scratch1/jonfrey/datasets_visual_odom/outdoor_street
+  init: 
+  - 0
+  - 20

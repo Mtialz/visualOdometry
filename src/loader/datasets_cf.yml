@@ -1,0 +1,25 @@
+kitti:
+  path: D:\education-MS\3d vision\code\3D-Vision\VO pipline\Visual-Odom-Pipeline\kitti
+  init: 
+  - 0
+  - 10
+parking:
+  path: /media/carter/Samsung_T5/vo_data/parking
+  init: 
+  - 0
+  - 2
+malaga:
+  path: /media/carter/Samsung_T5/vo_data/malaga-urban-dataset-extract-07
+  init: 
+  - 0
+  - 10
+roomtour:
+  path: /media/carter/Samsung_T5/vo_data/roomtour
+  init: 
+  - 0
+  - 2
+outdoor_street:
+  path: /media/carter/Samsung_T5/vo_data/outdoor_street
+  init: 
+  - 0
+  - 2
